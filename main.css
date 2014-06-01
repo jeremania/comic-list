@@ -1,0 +1,101 @@
+body {background-color:black;}
+h1   {background-color:black
+      font-family:sans-serif;
+}
+h1   {text-align:center;}
+p    {background-color:white;}
+p    {padding:10px;}
+p    {font-family:sans-serif;}
+body {color:black;}
+body {padding:10px;}
+h1 {color:white;}
+h2 {color:#24890d;
+    font-family:sans-serif;
+}
+h3 {text-align:center;
+    color:white;
+    font-family:sans-serif;}
+a:link {color:#24890d;}      /* unvisited link */
+a:visited {color:#24890d;}  /* visited link */
+a:hover {color:#24890d;}  /* mouse over link */
+a:active {color:#24890d;}  /* selected link */
+
+.cover-image {
+    height: 150px;
+}
+
+.image-strip {
+    width: 120px;
+    float: left;
+    background-color: white;
+}
+
+.image-box {
+    width: 100px;
+    height: 150px;
+    margin: 10px;
+    float: left;
+}
+
+.title-strip {
+    width: 200px;
+    float: left;
+    background-color: white;
+}
+
+.title-box {
+    width: 180px;
+    height: 149px;
+    margin: 10px;
+    float: left;
+    border-bottom:#dedede solid 1px;
+}
+
+.description-strip {
+    width: 400px;
+    float: left;
+    position: relative;
+    background-color: white;
+}
+
+.description-box {
+    width: 380px;
+    height: 149px;
+    margin: 10px;
+    float: left;
+    border-bottom:#dedede solid 1px;
+}
+
+.releases {
+    margin-left: auto;
+    margin-right: auto;
+    width: 720px;
+    font-family: sans-serif;
+}
+
+.publisher-strip {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    float:left;
+}
+
+.publisher-box {
+    position:relative;
+    left:-10px;
+}
+
+.publisher-box-middle {
+    margin-top: 50px;
+    position:relative;
+    left:-10px;
+}
+
+.image-gap {
+}
+
+.title-gap {
+}
+
+.description-gap {
+}

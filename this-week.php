@@ -1,9 +1,7 @@
 <head>
   <link rel="stylesheet" type="text/css" href="main.css">
 </head>
-<h1> Comics This Week <br><a href="http://www.jdmcnicholas.com/comic-list/last-month.php"><<</a> <a href="http://www.jdmcnicholas.com/comic-list/last-week.php"><</a> <a href="http://www.jdmcnicholas.com/comic-list/this-week.php">X</a> <a href="http://www.jdmcnicholas.com/comic-list/next-week.php">></a> <a href="http://www.jdmcnicholas.com/comic-list/next-month.php">>></a></h1>
-<h3><a href="http://www.jdmcnicholas.com/comic-list/pull-this-week.php">Pull List</a>
-</h3>
+<h1> Comics This Week </h1>
 <div class="releases">
 <div class="publisher-strip">
 <div class="publisher-box">
